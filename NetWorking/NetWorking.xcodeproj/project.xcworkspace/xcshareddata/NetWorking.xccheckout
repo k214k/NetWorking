@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EB0C14D1-67FC-426B-BDF7-635CBE1115E8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>NetWorking</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>24288A02-460D-4351-8618-7779AE0D1D49</key>
+		<string>https://github.com/k214k/NetWorking.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>NetWorking/NetWorking.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>24288A02-460D-4351-8618-7779AE0D1D49</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/k214k/NetWorking.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>24288A02-460D-4351-8618-7779AE0D1D49</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>24288A02-460D-4351-8618-7779AE0D1D49</string>
+			<key>IDESourceControlWCCName</key>
+			<string>netWorking</string>
+		</dict>
+	</array>
+</dict>
+</plist>
