@@ -2,8 +2,8 @@
 //  AppDelegate.m
 //  NetWorking
 //
-//  Created by zhangliang on 14-5-4.
-//  Copyright (c) 2014年 zhangliang. All rights reserved.
+//  Created by zhangl on 14-5-4.
+//  Copyright (c) 2014年 zhangl. All rights reserved.
 //
 
 #import "AppDelegate.h"
